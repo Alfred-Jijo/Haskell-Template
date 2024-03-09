@@ -34,3 +34,4 @@ main = do
     putStrLn "Welcome to the Guessing Game!"
     randomNumber <- generateRandomNumber
     playGame randomNumber
+
